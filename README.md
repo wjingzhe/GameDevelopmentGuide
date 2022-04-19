@@ -4,6 +4,7 @@ Just give out some experience or directions on game development to green hands.
 分享经验或路线给新手们
 
 本人是客户端游戏渲染相关，更多推荐照着书单相关一步一个脚印！
+渲染向：建议以DX12或Vulkan、Metal代替旧的OpenGL，可以找到相同系列书籍
 
 游戏类型：手游、端游、页游、家用游戏（电视）
 游戏相关职位：
